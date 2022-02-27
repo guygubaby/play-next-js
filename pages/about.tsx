@@ -1,6 +1,6 @@
-import React from "react";
-import Link from "next/link";
-import Layout from "../components/Layout";
+import React from 'react'
+import Link from 'next/link'
+import Layout from '../components/Layout'
 
 export default function about() {
   return (
@@ -10,5 +10,5 @@ export default function about() {
         <a>go home</a>
       </Link>
     </Layout>
-  );
+  )
 }
